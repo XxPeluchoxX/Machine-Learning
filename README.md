@@ -22,8 +22,8 @@ This is the roadmap I am currently following to learn Machine Learning (based on
 Here, I need to be comfortable with **numpy**, **pandas**, **matplotlib** and **seaborn**. I also need to learn basics concepts of Data Analysis.
  
 From PDSH:
-[ ] Introduction to NumPy
-[ ] Data Manipulation with Pandas
+[x] Introduction to NumPy
+[x] Data Manipulation with Pandas
 [ ] Matplotlib:
     ( ) Simple Line Plots
     ( ) Scatter Plots
